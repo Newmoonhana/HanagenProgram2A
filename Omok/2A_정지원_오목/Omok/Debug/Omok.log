@@ -1,13 +1,13 @@
 ﻿  GameManager.cpp
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\gamemanager.cpp(43): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\gamemanager.cpp(43): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
   main.cpp
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
   map.cpp
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\map.cpp(90): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\map.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\map.cpp(90): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\map.cpp(130): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   Player.cpp
-d:\복원폴더\downloads\정지원_한아전공부\오목\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+d:\jeongjiwon_hanagen\omok\2a_정지원_오목\omok\gamemanager.h(6): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
   코드를 생성하고 있습니다...
-  Omok.vcxproj -> D:\복원폴더\Downloads\정지원_한아전공부\오목\2A_정지원_오목\Debug\Omok.exe
+  Omok.vcxproj -> D:\JeongJiWon_hanagen\Omok\2A_정지원_오목\Debug\Omok.exe
