@@ -1,0 +1,8 @@
+과제 1
+string tempstr = null;
+string tempstr2 = "";
+bool isflag = tempstr.isempty();	//true나 false 호출.
+
+
+
+다음주 수요일까지 제출입니다.2A_프로그램_과제3_이름.zipmagotoolivesource@gmail.com 으로 제출 하시면 됩니다.
