@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
@@ -42,7 +43,7 @@ namespace ConsoleApp1
     //과제 2.
     public class vectorint
     {
-        public int [] val = new int[99];
+        public List<int> val = new List<int>();
         public int size = 0;
     }
 
@@ -50,7 +51,8 @@ namespace ConsoleApp1
     {
         public static void push(this vectorint v, int a)
         {
-            v.val[v.size++] = a;
+            v.val.Add(a);
+            v.size++;
         }
 
         public static void outstring(this vectorint v)
@@ -70,19 +72,13 @@ namespace ConsoleApp1
 
         public static void removeat(this vectorint v, int a)
         {
-            for (int i = a; i < v.size; i++)
-            {
-                v.val[i] = v.val[i + 1];
-            }
+            v.val.RemoveAt(a);
             v.size--;
         }
 
         public static void clear(this vectorint v)
         {
-            for (int i = 0; i < v.size; i++)
-            {
-                v.val[i] = 0;
-            }
+            v.val.Clear();
             v.size = 0;
         }
     }
